@@ -1,0 +1,6 @@
+build/
+dist/
+wikigps.egg-info/
+venv/
+key.py
+*.pyc
